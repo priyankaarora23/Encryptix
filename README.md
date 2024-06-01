@@ -1,2 +1,2 @@
-# encryptix
+# Encryptix
 First project at Encryptix
